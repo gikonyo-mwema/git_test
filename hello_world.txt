@@ -1,0 +1,3 @@
+Hello world!
+
+The Odin Project lessons are Awesome.
